@@ -1,0 +1,10 @@
+Visualizing Ride-Sharing Data
+
+Pyber: a python bas ridesharing app company
+1.- exploratory analysis
+2.- Type of city and numer of riders and drivers
+3.- Improuve Access
+4.- Determine affordability
+
+
+
